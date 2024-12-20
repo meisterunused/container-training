@@ -122,3 +122,12 @@ Companies like RedHat or Bitname provide well maintained and trusted images.
 Reach out to devops or security if you want to ensure a container source is
 safe.
 
+# Summary
+
+- Containers are **processes** in a sandbox
+
+- Run **one process** per container
+- Use `podman` instead of `docker`
+- Organize your containers in a **git repository**
+- Stick to **official images**
+
